@@ -1,0 +1,34 @@
+{
+    "887127644301320273": {
+        "user": "travy_patty_dev",
+        "discord_id": 887127644301320273,
+        "plan": "Monthly",
+        "amount": "$5",
+        "activation_date": "2026-09-20T17:26:31.296629+00:00",
+        "expiry_date": "2026-10-20T17:26:31.296629+00:00",
+        "status": "Active",
+        "reminder_sent": false,
+        "day_reminder_sent": false,
+        "sheet_row": 5,
+        "activation_dm_id": 1551283489209458709,
+        "owner_dm_id": 1551283466983837706,
+        "announcement_message_id": 1551283457894649937,
+        "announcement_channel_id": 1503429574296473640
+    },
+    "937242913535033404": {
+        "user": "farhanz67",
+        "discord_id": 937242913535033404,
+        "plan": "Monthly",
+        "amount": "$5",
+        "activation_date": "2026-09-21T19:14:33.509865+00:00",
+        "expiry_date": "2026-10-21T19:14:33.509865+00:00",
+        "status": "Active",
+        "reminder_sent": false,
+        "day_reminder_sent": false,
+        "sheet_row": 6,
+        "activation_dm_id": 1551673042235560056,
+        "owner_dm_id": 1551673037907173498,
+        "announcement_message_id": 1551673030969663530,
+        "announcement_channel_id": 1503429574296473640
+    }
+}
